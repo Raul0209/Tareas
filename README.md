@@ -17,4 +17,4 @@ Septiembre, Octubre y Noviembre pertenecen a otoño.
 
 4. Procedemos a catalogar la temporada del mes mediante varios IF los cuales funcionan de la misma manera, validando que el mes se encuentre entre los valores numericos a evaluar, cabe destacar que se uso la instruccion OR para devolver un true en caso la condicion se cumpliera en cualquiera de los escenarios.
 
-5. Por ultimo le mostramos al usuario final nuestro nombre y numerio de carnet.
+5. Por ultimo le mostramos al usuario final nuestro nombre y numero de carnet.
